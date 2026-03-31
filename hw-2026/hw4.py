@@ -20,7 +20,7 @@ function_group = score_tools.AddGroup("功能", subgroups=[
 report_group = score_tools.AddGroup("报告",maximum=5.5,minimum=0, basic_score=0, subgroups=[
     score_tools.AddGroup("Basics", maximum=4.25, minimum=0, basic_score=4.25, subgroups=[
         score_tools.FixedLeafGroup("没有结果", -2, False),
-        score_tools.FixedLeafGroup("缺少对AI辅助的相关分析(如果使用的话)", -2, False),
+        score_tools.FixedLeafGroup("缺少对AI辅助的相关分析(如果使用的话)", -0.1, False),
         score_tools.MutableLeafGroup("缺少算法原理说明", score_max=0,score_min=-2, initial=0),
         score_tools.FixedLeafGroup("没有交PDF格式", -0.5, False),
     ]),
