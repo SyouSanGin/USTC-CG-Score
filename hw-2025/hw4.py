@@ -73,6 +73,7 @@ prog_group = score_tools.AddGroup("程序", maximum=5.5,minimum=0,basic_score=0,
     # ])
 ])
 
+
 # 实验报告（功能说明、算法原理、结果呈现）：
 #   - 详细完整，且有更丰富且合理的例子（bonus）
 #   - 详细完整，且有针对变量的实验和分析（bonus）
