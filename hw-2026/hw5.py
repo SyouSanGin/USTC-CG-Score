@@ -16,7 +16,7 @@ function_group = score_tools.AddGroup("功能", subgroups=[
 
 
 prog_group = score_tools.AddGroup("程序", maximum=5.5,minimum=0,basic_score=0,subgroups=[
-    score_tools.AddGroup("Basics", maximum=5, minimum=0, basic_score=5, subgroups=[
+    score_tools.AddGroup("Basics", maximum=4.25, minimum=0, basic_score=5, subgroups=[
         score_tools.FixedLeafGroup("没有使用稀疏矩阵（在处理大规模网络时计算效率&内存效率低下）", -0.5,False),
         score_tools.FixedLeafGroup("野指针满天飞（建议使用智能指针）", -1,False),
         score_tools.FixedLeafGroup("运行出错，导致程序崩溃", -1,False),
