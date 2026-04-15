@@ -22,7 +22,7 @@ prog_group = score_tools.AddGroup("程序", maximum=5.5,minimum=0,basic_score=0,
         score_tools.FixedLeafGroup("运行出错，导致程序崩溃", -1,False),
     ]),
     score_tools.AddGroup("Bonus", maximum=1e9, minimum=0, basic_score=0, subgroups=[
-        score_tools.MutableLeafGroup("合理的类型封装，例如将不同的梯度计算设计为多个类",score_max=0.3, score_min=0, initial=0)    
+        score_tools.MutableLeafGroup("合理的类型/功能封装",score_max=0.3, score_min=0, initial=0)    
     ])
 ])
 
