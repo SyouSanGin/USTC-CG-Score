@@ -13,8 +13,8 @@ function_group = score_tools.AddGroup("功能", subgroups=[
             score_tools.MutableLeafGroup("结果与正确结果之间差距过大（酌情扣分）", score_max=0, score_min=-1, initial=0),        
         ]),
         score_tools.AddGroup("Bonus", maximum=1e9, minimum=0, basic_score=0, subgroups=[
-            score_tools.MutableLeafGroup("ASAP参数化算法", score_max=0.25, score_min=0, initial=0),
-            score_tools.MutableLeafGroup("Hybrid参数化算法", score_max=0.25, score_min=0, initial=0)
+            score_tools.MutableLeafGroup("ASAP参数化算法", score_max=0.5, score_min=0, initial=0),
+            score_tools.MutableLeafGroup("Hybrid参数化算法", score_max=0.5, score_min=0, initial=0)
         ])
     ],maximum=5.5, minimum=0, basic_score=0)
 
