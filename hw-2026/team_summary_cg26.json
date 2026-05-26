@@ -1,0 +1,403 @@
+{
+  "total_students_in_roster": 80,
+  "total_assigned": 80,
+  "unpaired_count": 0,
+  "teams_3_person": 15,
+  "teams_2_person": 12,
+  "teams_1_person": 11,
+  "total_teams": 38,
+  "invalid_names_in_teams": [],
+  "unpaired_names": [],
+  "teams": [
+    {
+      "team_number": 1,
+      "members": [
+        "宁尚哲",
+        "伍德文",
+        "刘子轩"
+      ],
+      "size": 3,
+      "topic": "游戏 unity 3D",
+      "notes": ""
+    },
+    {
+      "team_number": 2,
+      "members": [
+        "杨永博",
+        "王沈杰",
+        "葛一行"
+      ],
+      "size": 3,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 3,
+      "members": [
+        "杨弘宇",
+        "常毅寒",
+        "杨硕"
+      ],
+      "size": 3,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 4,
+      "members": [
+        "刘浩东",
+        "张涵",
+        "田天威"
+      ],
+      "size": 3,
+      "topic": "基于虚幻引擎的时空穿梭fps游戏",
+      "notes": ""
+    },
+    {
+      "team_number": 5,
+      "members": [
+        "李安峤",
+        "钟启帆",
+        "陈鑫"
+      ],
+      "size": 3,
+      "topic": "中子星模拟",
+      "notes": ""
+    },
+    {
+      "team_number": 6,
+      "members": [
+        "王伟智",
+        "袁子孺",
+        "孔杰"
+      ],
+      "size": 3,
+      "topic": "未定",
+      "notes": ""
+    },
+    {
+      "team_number": 7,
+      "members": [
+        "沈阳",
+        "施舒恒",
+        "殷明"
+      ],
+      "size": 3,
+      "topic": "无尽跑酷游戏",
+      "notes": ""
+    },
+    {
+      "team_number": 8,
+      "members": [
+        "潘明馨",
+        "贾婧辰",
+        "马靖伦"
+      ],
+      "size": 3,
+      "topic": "实现一个通过使用多种几何体反射光线将光线反射到目标点的3D解谜游戏，可能包含一些不可能图形设计。",
+      "notes": ""
+    },
+    {
+      "team_number": 9,
+      "members": [
+        "杜烽玮",
+        "偏家傲",
+        "朱曜华"
+      ],
+      "size": 3,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 10,
+      "members": [
+        "林靖渊",
+        "李明远",
+        "周家润"
+      ],
+      "size": 3,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 11,
+      "members": [
+        "朱浩德",
+        "程潘豪",
+        "史睿铭"
+      ],
+      "size": 3,
+      "topic": "基于泊松方程的2D解密游戏",
+      "notes": ""
+    },
+    {
+      "team_number": 12,
+      "members": [
+        "窦富缤",
+        "安昭瑞",
+        "于云志"
+      ],
+      "size": 3,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 13,
+      "members": [
+        "谢济远",
+        "陈天添",
+        "侍子译"
+      ],
+      "size": 3,
+      "topic": "基于LLM的空间建模",
+      "notes": "人数列记载2人,实际3人"
+    },
+    {
+      "team_number": 14,
+      "members": [
+        "刘启明",
+        "杨广源",
+        "王浛丞"
+      ],
+      "size": 3,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 15,
+      "members": [
+        "李佩优",
+        "汪伯治",
+        "邢书臣"
+      ],
+      "size": 3,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 16,
+      "members": [
+        "武文韬",
+        "李庥延"
+      ],
+      "size": 2,
+      "topic": "Outer Wilds 世末歌者游戏剧情 MOD",
+      "notes": ""
+    },
+    {
+      "team_number": 17,
+      "members": [
+        "胡广理",
+        "肖雅芸"
+      ],
+      "size": 2,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 18,
+      "members": [
+        "郑翼",
+        "杨曦然"
+      ],
+      "size": 2,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 19,
+      "members": [
+        "董修奇",
+        "王一旭"
+      ],
+      "size": 2,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 20,
+      "members": [
+        "高司晨",
+        "王浦丞"
+      ],
+      "size": 2,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 21,
+      "members": [
+        "王博绪",
+        "李翊"
+      ],
+      "size": 2,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 22,
+      "members": [
+        "刘子鹄",
+        "张诚琪"
+      ],
+      "size": 2,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 23,
+      "members": [
+        "林柏石",
+        "杨玄烨"
+      ],
+      "size": 2,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 24,
+      "members": [
+        "王杰申",
+        "张子健"
+      ],
+      "size": 2,
+      "topic": "AIGC",
+      "notes": ""
+    },
+    {
+      "team_number": 25,
+      "members": [
+        "孙景涵",
+        "黄敏煜"
+      ],
+      "size": 2,
+      "topic": "我的世界光影制作",
+      "notes": ""
+    },
+    {
+      "team_number": 26,
+      "members": [
+        "董馨宇",
+        "衷懿"
+      ],
+      "size": 2,
+      "topic": "还没确定",
+      "notes": ""
+    },
+    {
+      "team_number": 27,
+      "members": [
+        "李政",
+        "王怡钧"
+      ],
+      "size": 2,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 28,
+      "members": [
+        "廖洛彬"
+      ],
+      "size": 1,
+      "topic": "基于LLM的对话式参数化CAD建模",
+      "notes": ""
+    },
+    {
+      "team_number": 29,
+      "members": [
+        "梁修宁"
+      ],
+      "size": 1,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 30,
+      "members": [
+        "师驰昊"
+      ],
+      "size": 1,
+      "topic": "高质量布料燃烧交互的仿真与渲染（侧重于渲染方面，使用OPGL和blender工具）",
+      "notes": ""
+    },
+    {
+      "team_number": 31,
+      "members": [
+        "李亭皑"
+      ],
+      "size": 1,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 32,
+      "members": [
+        "周彦"
+      ],
+      "size": 1,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 33,
+      "members": [
+        "姜旭朗"
+      ],
+      "size": 1,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 34,
+      "members": [
+        "刘浩哲"
+      ],
+      "size": 1,
+      "topic": "Ruduction on Quad-dominant Mesh",
+      "notes": ""
+    },
+    {
+      "team_number": 35,
+      "members": [
+        "赵昕扬"
+      ],
+      "size": 1,
+      "topic": "未知",
+      "notes": ""
+    },
+    {
+      "team_number": 36,
+      "members": [
+        "熊锦梁"
+      ],
+      "size": 1,
+      "topic": "未确定",
+      "notes": ""
+    },
+    {
+      "team_number": 37,
+      "members": [
+        "马丁"
+      ],
+      "size": 1,
+      "topic": "极光渲染",
+      "notes": ""
+    },
+    {
+      "team_number": 38,
+      "members": [
+        "张浩东"
+      ],
+      "size": 1,
+      "topic": "还没想好",
+      "notes": ""
+    }
+  ],
+  "topic_distribution": {
+    "未确定": 24,
+    "游戏开发": 6,
+    "渲染与模拟": 5,
+    "AI/LLM相关": 3
+  }
+}
